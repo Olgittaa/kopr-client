@@ -1,0 +1,1 @@
+package sk.upjs.ics.kopr.soap.client;
